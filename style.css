@@ -1,1 +1,18 @@
-/* let code die */
+
+        body {
+          background-color: #b1b1af
+        }
+        canvas {
+          border: 1px solid black;
+          margin-top: 10px;
+        }
+        textarea {
+          width: 100%;
+        }
+        button {
+          background-color: #846548;
+        }
+
+        textarea {
+          background-color: #fff780;
+        }
