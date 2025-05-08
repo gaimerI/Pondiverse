@@ -24,4 +24,12 @@ export const stores = [
     getCreationImage: "https://theoceaniverse.val.run/get-creation-image?id=",
     getCreations: "https://theoceaniverse.val.run/get-creations",
   },
+  {
+    name: "hedge",
+    home: "https://gaimeri.github.io/Pondiverse/index.html",
+    addCreation: "https://gaimeri17--5c86650dcb4c49e7bca49cfadbb422ae.web.val.run/add-creation", // i have no idea why the urls are in hex
+    getCreation: "https://gaimeri17--5c86650dcb4c49e7bca49cfadbb422ae.web.val.run/get-creation?id=",
+    getCreationImage: "https://gaimeri17--5c86650dcb4c49e7bca49cfadbb422ae.web.val.run/get-creation-image?id=",
+    getCreations: "https://gaimeri17--5c86650dcb4c49e7bca49cfadbb422ae.web.val.run/get-creations",
+  },
 ];
